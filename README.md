@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Christella (Ace)
+# Hi there 👋, I'm Christella 
 
 ## 🚀 About Me
 I am a passionate STEM student and aspiring software developer with a strong interest in building real-world solutions using programming, embedded systems, and modern web technologies.  
@@ -56,9 +56,9 @@ I am especially interested in:
 ---
 
 ## 📫 Let's Connect
-- GitHub: https://github.com/yourusername
-- Email: your.email@example.com
-- LinkedIn: https://linkedin.com/in/yourprofile
+- GitHub: https://github.com/Chiki-tella
+- Email: christellamunezeroimpano@gmail.com
+- LinkedIn: https://www.linkedin.com/in/m-i-christella/
 
 ---
 
