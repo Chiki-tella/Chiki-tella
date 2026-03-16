@@ -20,12 +20,19 @@
 
 ```ts
 const christella = {
-  role:      "Full Stack Developer",
-  location:  "Kigali, Rwanda 🇷🇼",
-  stack:     ["React", "Node.js", "TypeScript", "Python", "C/C++"],
-  interests: ["Web Apps", "IoT Systems", "AI", "Embedded Programming"],
-  currently: "Building intelligent digital solutions @ MineLynx Technologies",
-  portfolio: "https://munezeroportfoliov3.vercel.app",
+  name:      "Christella Munezero",
+  role:      "🚀 Full Stack Developer",
+  location:  "📍 Kigali, Rwanda 🇷🇼",
+  stack:     ["⚛️ React", "🟢 Node.js", "🔷 TypeScript", "🐍 Python", "⚡ C/C++"],
+  interests: ["🌐 Web Apps", "🔌 IoT Systems", "🤖 AI", "💻 Embedded Programming"],
+  currently: "🔨 Building intelligent digital solutions @ MineLynx Technologies",
+  portfolio: "🔗 https://munezeroportfoliov3.vercel.app",
+  funFact:   "Always learning, always building! 💡",
+  connect:   {
+    linkedin: "https://linkedin.com/in/m-i-christella",
+    email:    "christellamunezeroimpano@gmail.com",
+    website:  "https://munezeroportfoliov3.vercel.app"
+  }
 };
 ```
 
