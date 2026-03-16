@@ -2,7 +2,7 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=06B6D4&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Christella+%F0%9F%91%8B;Full+Stack+Developer;IoT+%26+Embedded+Systems+Enthusiast;Always+learning%2C+always+building.)
 
-<a href="https://chiki-tella.vercel.app" target="_blank">
+<a href="https://munezeroportfoliov3.vercel.app" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Work-%2306b6d4?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 &nbsp;
