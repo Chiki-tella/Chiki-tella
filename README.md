@@ -18,23 +18,16 @@
 
 ---
 
-```ts
-const christella = {
-  name:      "Christella Munezero",
-  role:      "🚀 Full Stack Developer",
-  location:  "📍 Kigali, Rwanda 🇷🇼",
-  stack:     ["⚛️ React", "🟢 Node.js", "🔷 TypeScript", "🐍 Python", "⚡ C/C++"],
-  interests: ["🌐 Web Apps", "🔌 IoT Systems", "🤖 AI", "💻 Embedded Programming"],
-  currently: "🔨 Building intelligent digital solutions @ MineLynx Technologies",
-  portfolio: "🔗 https://munezeroportfoliov3.vercel.app",
-  funFact:   "Always learning, always building! 💡",
-  connect:   {
-    linkedin: "https://linkedin.com/in/m-i-christella",
-    email:    "christellamunezeroimpano@gmail.com",
-    website:  "https://munezeroportfoliov3.vercel.app"
-  }
-};
-```
+🙋‍♀️ **Christella Munezero** — Full Stack Developer based in Kigali, Rwanda 🇷🇼
+
+Currently building intelligent digital solutions at **MineLynx Technologies**.
+
+| | |
+|---|---|
+| 💻 What I do | Web apps, IoT systems & embedded programming |
+| 🔧 Stack | React · Node.js · TypeScript · Python · C/C++ |
+| 🌱 Interests | AI, hardware-software integration, clean UI |
+| ⚡ Fun fact | I go from writing firmware to shipping web apps in the same day |
 
 ---
 
