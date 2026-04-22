@@ -99,25 +99,7 @@ Currently building intelligent digital solutions at **MineLynx Technologies**.
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Chiki-tella&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://github.com/Chiki-tella/Chiki-tella/blob/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
+## Visit My Portfolio👇
 
 <div align="center">
 
